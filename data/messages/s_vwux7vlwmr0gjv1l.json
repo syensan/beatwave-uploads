@@ -22,5 +22,13 @@
     "type": "text",
     "text": "This song is currently not being released on beatwave.",
     "createdAt": "2026-06-30T22:52:13.895Z"
+  },
+  {
+    "id": "m_mr18rx6sk4",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T22:52:19.012Z"
   }
 ]
