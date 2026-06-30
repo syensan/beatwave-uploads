@@ -6,5 +6,13 @@
     "type": "system",
     "text": "Chat started.",
     "createdAt": "2026-06-30T06:30:58.910Z"
+  },
+  {
+    "id": "m_mr0a5tz2uk",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T06:43:21.470Z"
   }
 ]
