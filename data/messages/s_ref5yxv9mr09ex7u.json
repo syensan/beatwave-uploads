@@ -6,5 +6,13 @@
     "type": "system",
     "text": "Chat started.",
     "createdAt": "2026-06-30T06:22:27.443Z"
+  },
+  {
+    "id": "m_mr09fbz5k9s",
+    "senderId": "admin:ZxZ9",
+    "role": "user",
+    "type": "text",
+    "text": "やあ",
+    "createdAt": "2026-06-30T06:22:45.089Z"
   }
 ]
