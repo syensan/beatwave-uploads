@@ -22,5 +22,13 @@
     "type": "text",
     "text": "This song is currently not part of the campaign. Thank you for your understanding.",
     "createdAt": "2026-06-30T22:53:41.902Z"
+  },
+  {
+    "id": "m_mr18tuuccx",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T22:53:49.284Z"
   }
 ]
