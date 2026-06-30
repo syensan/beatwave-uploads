@@ -14,5 +14,13 @@
     "type": "text",
     "text": "Hi",
     "createdAt": "2026-06-30T13:04:53.028Z"
+  },
+  {
+    "id": "m_mr18tp5afqq",
+    "senderId": "admin:ZxZ9",
+    "role": "admin",
+    "type": "text",
+    "text": "This song is currently not part of the campaign. Thank you for your understanding.",
+    "createdAt": "2026-06-30T22:53:41.902Z"
   }
 ]
