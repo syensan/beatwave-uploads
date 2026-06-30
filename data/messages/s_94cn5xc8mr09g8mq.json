@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "m_mr0a679ffl",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T06:43:38.691Z"
+  }
+]
