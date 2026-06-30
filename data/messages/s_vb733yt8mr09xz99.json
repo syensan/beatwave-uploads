@@ -14,5 +14,13 @@
     "type": "text",
     "text": "a",
     "createdAt": "2026-06-30T06:41:55.302Z"
+  },
+  {
+    "id": "m_mr0a5c1tm1",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T06:42:58.241Z"
   }
 ]
