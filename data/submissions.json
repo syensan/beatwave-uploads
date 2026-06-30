@@ -82,5 +82,17 @@
     "note": "test",
     "code": null,
     "createdAt": "2026-06-30T06:37:15.069Z"
+  },
+  {
+    "id": "s_t6uh2db8mr0c52mt",
+    "userId": "u_n3jnx7uamr0c3yff",
+    "platform": "tiktok",
+    "url": "https://www.tiktok.com/@niggaroba/video/7656838217274068244",
+    "views": 5000000,
+    "reward": 60,
+    "status": "open",
+    "note": "",
+    "code": null,
+    "createdAt": "2026-06-30T07:38:45.269Z"
   }
 ]
