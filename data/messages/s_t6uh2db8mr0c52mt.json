@@ -6,5 +6,13 @@
     "type": "system",
     "text": "Chat started.",
     "createdAt": "2026-06-30T07:38:47.262Z"
+  },
+  {
+    "id": "m_mr0c5bitsay",
+    "senderId": "u_n3jnx7uamr0c3yff",
+    "role": "user",
+    "type": "text",
+    "text": "dog gay roba",
+    "createdAt": "2026-06-30T07:38:56.790Z"
   }
 ]
