@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "id": "m_mr09eycz",
+    "senderId": "u_udrxsp4lmr08bqn0",
+    "role": "user",
+    "type": "system",
+    "text": "Chat started.",
+    "createdAt": "2026-06-30T06:22:27.443Z"
+  }
+]
