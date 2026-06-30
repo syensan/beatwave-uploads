@@ -22,5 +22,13 @@
     "type": "text",
     "text": "sad( ﾉД`)ｼｸｼｸ…",
     "createdAt": "2026-06-30T22:51:14.127Z"
+  },
+  {
+    "id": "m_mr18qpeq9k",
+    "senderId": "admin",
+    "role": "admin",
+    "type": "system",
+    "text": "✗ Rejected. This URL can be re-submitted.",
+    "createdAt": "2026-06-30T22:51:22.275Z"
   }
 ]
